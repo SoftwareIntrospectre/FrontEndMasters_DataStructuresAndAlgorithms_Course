@@ -62,4 +62,4 @@ print(queue.peek())     # Output: None (queue is empty)
 
 queue.enqueue(node3)
 queue.enqueue(node1)
-print(queue.peek())     # Output: None (queue is empty)
+print(queue.peek())     # Output: 73
